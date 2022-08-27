@@ -1,2 +1,6 @@
+update_script
 #!bin/bash
+=======
+#!/bin/bash
+master
 The school is open!
